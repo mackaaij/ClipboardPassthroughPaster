@@ -1,3 +1,4 @@
+;Origin: https://github.com/ellysh/autoit-examples/blob/master/Helpfile/_WinAPI_AddClipboardFormatListener.au3
 #include <WinAPISys.au3>
 #include <WindowsConstants.au3>
 #include <Clipboard.au3>
